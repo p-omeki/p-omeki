@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @p-omeki
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any project on python in relation to penetration testing
+- 🌱 I’m currently learning website development
+- 💞️ I’m looking to collaborate on any project in website building
 - 📫 How to reach me twitter @p_omeki
 
 <!---
